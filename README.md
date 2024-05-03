@@ -7,4 +7,4 @@ A repository containing my portfolio of data science projects for demonstration 
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 ## Content
-- [Disease Prediction](Disease_Prediction/) : A quick exploration of various machine learning prediction models based on a simple medical dataset.
+- [Supervised Learning - Disease Prediction](Disease_Prediction/) : A quick exploration of various machine learning prediction models based on a simple medical dataset.
