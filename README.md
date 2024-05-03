@@ -1,2 +1,7 @@
 # Data_Science_Portfolio
-A repository containing portfolio of data science projects for demonstration purpose
+
+A repository containing my portfolio of data science projects for demonstration purpose. Mostly presented as Python notebooks.
+
+## Instructions for Running Python Notebooks Locally
+1. Install dependencies using requirements.txt.
+2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
